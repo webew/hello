@@ -1,0 +1,10 @@
+{
+    "name": "webew/hello",
+    "description": "test",
+    "authors": [
+        {
+            "name": "webew",
+            "role": "Développeur"
+        }
+    ]
+}
