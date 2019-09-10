@@ -6,5 +6,7 @@
             "name": "webew",
             "role": "Développeur"
         }
-    ]
+    ],
+    "license": "MIT",
+    "minimum-stability": "stable"
 }
